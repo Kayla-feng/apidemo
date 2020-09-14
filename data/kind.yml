@@ -1,0 +1,16 @@
+create_kind:
+# classify_name,classify_describe,msg
+  -
+   test_name: 添加礼品
+   classify_name: 测试
+   classify_describe: 123
+   msg: 礼品分类添加成功
+
+
+change_state:
+   create:
+     classify_name: "游戏"
+     classify_describe: 1
+   search:
+     page: 1
+     page_size: 10

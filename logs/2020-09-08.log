@@ -1,0 +1,23 @@
+[2020-09-08 20:46:57,506][log.py|__console] [line:37] DEBUG   : [{'classify_name': '测试', 'classify_describe': '123', 'msg': '礼品分类添加成功'}, {'classify_name': '￥￥￥￥', 'classify_describe': '123', 'msg': '礼品分类添加成功'}, {'classify_name': '  ', 'classify_describe': '%%~', 'msg': '礼品分类添加成功'}]
+[2020-09-08 20:50:04,871][log.py|__console] [line:37] DEBUG   : <class 'list'>
+[2020-09-08 21:21:26,964][log.py|__console] [line:37] DEBUG   : [['测试', 123, '礼品分类添加成功'], ['￥￥￥￥', 123, '礼品分类添加成功']]
+[2020-09-08 21:21:27,054][log.py|__console] [line:37] DEBUG   : {'code': 200, 'msg': '礼品分类添加成功', 'data': True}
+[2020-09-08 21:21:27,063][log.py|__console] [line:37] DEBUG   : [['测试', 123, '礼品分类添加成功'], ['￥￥￥￥', 123, '礼品分类添加成功']]
+[2020-09-08 21:21:27,158][log.py|__console] [line:37] DEBUG   : {'code': 200, 'msg': '礼品分类添加成功', 'data': True}
+[2020-09-08 21:22:27,715][log.py|__console] [line:37] DEBUG   : [['测试', 123, '礼品分类添加成功'], ['￥￥￥￥', 123, '礼品分类添加成功']]
+[2020-09-08 21:22:27,789][log.py|__console] [line:37] DEBUG   : [['测试', 123, '礼品分类添加成功'], ['￥￥￥￥', 123, '礼品分类添加成功']]
+[2020-09-08 21:23:23,529][log.py|__console] [line:37] DEBUG   : [['测试', 123, '礼品分类添加成功'], ['￥￥￥￥', 123, '礼品分类添加成功']]
+[2020-09-08 21:23:23,793][log.py|__console] [line:37] DEBUG   : [['测试', 123, '礼品分类添加成功'], ['￥￥￥￥', 123, '礼品分类添加成功']]
+[2020-09-08 21:24:16,513][log.py|__console] [line:37] DEBUG   : [['测试', 123, '礼品分类添加成功'], ['￥￥￥￥', 123, '礼品分类添加成功']]
+[2020-09-08 21:24:16,598][log.py|__console] [line:37] DEBUG   : [['测试', 123, '礼品分类添加成功'], ['￥￥￥￥', 123, '礼品分类添加成功']]
+[2020-09-08 21:34:24,925][log.py|__console] [line:37] DEBUG   : False
+[2020-09-08 21:35:22,837][log.py|__console] [line:37] DEBUG   : [{'id': 177, 'classify_name': '测试', 'classify_describe': '123', 'state': 0, 'create_time': '2020-09-08 21:24:15', 'update_time': '2020-09-08 21:24:15', 'is_delete': 0, 'classify_num': 0}, {'id': 175, 'classify_name': '测试', 'classify_describe': '123', 'state': 0, 'create_time': '2020-09-08 21:23:22', 'update_time': '2020-09-08 21:23:22', 'is_delete': 0, 'classify_num': 0}, {'id': 173, 'classify_name': '测试', 'classify_describe': '123', 'state': 0, 'create_time': '2020-09-08 21:22:26', 'update_time': '2020-09-08 21:22:26', 'is_delete': 0, 'classify_num': 0}, {'id': 171, 'classify_name': '测试', 'classify_describe': '123', 'state': 0, 'create_time': '2020-09-08 21:21:26', 'update_time': '2020-09-08 21:21:26', 'is_delete': 0, 'classify_num': 0}, {'id': 169, 'classify_name': '测试', 'classify_describe': '123', 'state': 1, 'create_time': '2020-09-08 02:10:34', 'update_time': '2020-09-08 19:05:08', 'is_delete': 0, 'classify_num': 0}]
+[2020-09-08 21:35:36,074][log.py|__console] [line:37] DEBUG   : {'id': 177, 'classify_name': '测试', 'classify_describe': '123', 'state': 0, 'create_time': '2020-09-08 21:24:15', 'update_time': '2020-09-08 21:24:15', 'is_delete': 0, 'classify_num': 0}
+[2020-09-08 21:36:04,118][log.py|__console] [line:37] DEBUG   : 0
+[2020-09-08 21:43:02,897][log.py|__console] [line:37] DEBUG   : 0
+[2020-09-08 21:43:30,877][log.py|__console] [line:37] DEBUG   : 0
+[2020-09-08 21:44:45,034][log.py|__console] [line:37] DEBUG   : 0
+[2020-09-08 21:46:23,092][log.py|__console] [line:37] DEBUG   : 0
+[2020-09-08 21:48:12,925][log.py|__console] [line:37] DEBUG   : 0
+[2020-09-08 21:50:39,800][log.py|__console] [line:37] DEBUG   : 1
+[2020-09-08 21:51:45,834][log.py|__console] [line:37] DEBUG   : 0
